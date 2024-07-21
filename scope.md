@@ -14,7 +14,18 @@ page info will be stored in table using the following columns.
 This table will handle page and elements together 
 
 
+
 The top navigation will be the pages we can add pages using modal.
+
+
+ - The navigation will have a table of its own.
+	- id
+	- name
+	- url
+	- type
+
+
+
 the slide bar will be toggle slide open and close and will feature the individual elements.
 
 
